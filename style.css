@@ -1,4 +1,12 @@
 .title {
 	font-weight: bold;
-	margin-right: 5px;
+	margin-right: 10px;
+}
+
+.artist {
+	margin-right: 10px;
+}
+
+input#search {
+	margin-bottom: 15px;
 }
