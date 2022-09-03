@@ -1,0 +1,52 @@
+@font-face {
+	font-family: title;
+	src: url(../fonts/GothamBlack.ttf);
+}
+
+@font-face {
+	font-family: genre;
+	src: url(../fonts/AppleSDGothicNeoM.ttf);
+}
+
+body {
+	font-family: genre;
+	font-size: 20px;
+}
+
+.title {
+	font-family: title;
+	font-weight: bolder;
+	font-size: 45px;
+}
+
+.genre {
+	font-family: genre;
+	font-size: 30px;
+	font-weight: bolder;
+}
+
+.difficulty {
+	border: 1.5px solid black;
+	border-collapse: collapse;
+}
+
+tr,
+td {
+	border: 1px solid black;
+}
+
+table {
+	text-align: center;
+}
+
+.na {
+	width: 150px;
+}
+
+.di {
+	width: 60px;
+}
+
+.no {
+	width: 60px;
+}
