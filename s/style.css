@@ -47,10 +47,14 @@ table {
 	width: 150px;
 }
 
-.di {
+.di,
+.no {
 	width: 60px;
 }
 
-.no {
-	width: 60px;
+.dl {
+	margin-bottom: 13px;
+	height: 40px;
+	width: 160px;
+	border-radius: 20px;
 }
